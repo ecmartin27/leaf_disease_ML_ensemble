@@ -51,8 +51,9 @@ The segmentation model currently does a poor job at identifying where the diseas
 
 
 ## How to Use
-1. **Clone the repo** 
-2. **Ensure that you have Python 3.10 or 3.12 installed.**
-3. **Run the following commands:**
+1. **Clone the repo**
+2. **Unzip the Classification Model**
+3. **Ensure that you have Python 3.10 or 3.12 installed.**
+4. **Run the following commands:**
 chmod +x setup.sh
 ./setup.sh
