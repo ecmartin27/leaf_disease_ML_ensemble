@@ -56,6 +56,7 @@ The segmentation model currently does a poor job at identifying where the diseas
    - The file was too large to upload to github
 4. **Ensure that you have Python 3.10 or 3.12 installed.**
 5. **Run the following commands:**
+
 chmod +x setup.sh
 
 ./setup.sh
