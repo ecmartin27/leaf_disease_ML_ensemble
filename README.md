@@ -52,8 +52,9 @@ The segmentation model currently does a poor job at identifying where the diseas
 
 ## How to Use
 1. **Clone the repo**
-2. **Unzip the Classification Model**
-3. **Ensure that you have Python 3.10 or 3.12 installed.**
-4. **Run the following commands:**
+2. **Request copy of the classification model or run the model from the ibynb file and save to the repo**
+   - The file was too large to upload to github
+4. **Ensure that you have Python 3.10 or 3.12 installed.**
+5. **Run the following commands:**
 chmod +x setup.sh
 ./setup.sh
